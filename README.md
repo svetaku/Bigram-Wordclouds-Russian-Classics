@@ -31,3 +31,14 @@ The bigrams with the highest TF-IDF scores for each author are considered the mo
 The [wordcloud](https://pypi.org/project/wordcloud/) library is utilized to create visual representations of the most unique bigrams for each author. These wordclouds offer an intuitive and engaging way to observe the distinctive language patterns associated with each writer.
 
 ![Wordcloud](wordcloud.png)
+
+## Usage
+- Clone the repository
+  ```sh
+  git clone https://github.com/svetaku/Bigram-Wordclouds-Russian-Classics.git
+  cd Bigram-Wordclouds-Russian-Classics
+- Install dependencies
+  ```sh
+  pip install -r requirements.txt
+- Run the notebook
+
